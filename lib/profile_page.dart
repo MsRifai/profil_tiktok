@@ -111,7 +111,7 @@ class TikTokProfilePage extends StatelessWidget {
                             left: 5,
                             child: Row(
                               children: [
-                                Icon(Icons.play_arrow, color: Colors.white, size: 16),
+                                Icon(Icons.play_arrow, color: Colors.white, size: 18),
                                 SizedBox(width: 4),
                                 Text(
                                   '5.1M',
