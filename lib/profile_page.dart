@@ -86,7 +86,7 @@ class TikTokProfilePage extends StatelessWidget {
                     padding: const EdgeInsets.all(8),
                     shrinkWrap: true,
                     physics: const NeverScrollableScrollPhysics(),
-                    itemCount: 9,
+                    itemCount: 6,
                     gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 3,
                       crossAxisSpacing: 5,
