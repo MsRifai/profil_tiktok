@@ -24,7 +24,7 @@ class TikTokProfilePage extends StatelessWidget {
                         const SizedBox(height: 10),
                         const CircleAvatar(
                           radius: 45,
-                          backgroundImage: AssetImage('assets/images/profil.png'),
+                          backgroundImage: AssetImage('assets/images/profil.jpg'),
                           backgroundColor: Colors.white12,
                         ),
                         const SizedBox(height: 10),
